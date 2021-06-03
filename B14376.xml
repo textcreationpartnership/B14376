@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An elegie vpon the death of the high and renowned princesse, our late Soueraigne Elizabeth. By I.L.</title>
+            <author>Lane, John, 16th/17th cent.</author>
+         </titleStmt>
+         <extent>Approx. 15KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B14376</idno><idno type="EEBO-CITATION">99854681</idno>
+  <idno type="VID">176320</idno>
+  <idno type="EEBO-PROQUEST">2240931291</idno>
+  <idno type="STC">STC 15189</idno>
+  <idno type="STC">ESTC S119474</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99854681e"/>
+            <note>(EEBO-TCP ; phase 2, no. B14376)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 176320)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1314:21)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An elegie vpon the death of the high and renowned princesse, our late Soueraigne Elizabeth. By I.L.</title>
+                  <author>Lane, John, 16th/17th cent.</author>
+               </titleStmt>
+               <extent>[14] p.   </extent>
+               <publicationStmt>
+                  <publisher>[By W. White] for Iohn Deane, at Temple-barre,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>1603.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>I.L. = John Lane.</note>
+                  <note>In verse.</note>
+                  <note>Printer's name from STC.</note>
+                  <note>Signatures: A-B⁴ (-B4).</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Elizabeth --  I, --  Queen of England, 1533-1603 --  Poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Amanda Flynn </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Amanda Flynn</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:176320:1"/>
+            <fw>
+               <figure>
+                  <figDesc>Decorative border</figDesc>
+               </figure>
+            </fw>
+            <p>AN Elegie vpon the death of the high and re<g ref="char:EOLhyphen"/>nowned Princesse, our late Soueraigne ELIZABETH. By I. L.</p>
+            <figure>
+               <figDesc>Royal blazon or coat of arms.</figDesc>
+            </figure>
+            <p>Imprinted at London for Iohn Deane, at Temple<g ref="char:EOLhyphen"/>barre. 1603.</p>
+         </div>
+      </front>
+      <body>
+         <div type="elegy">
+            <pb facs="tcp:176320:2"/>
+            <pb facs="tcp:176320:2"/>
+            <fw>
+               <figure>
+                  <figDesc>Decorative head and tail piece</figDesc>
+               </figure>
+            </fw>
+            <head>An Elegie vpon the death of the high renowned Princesse, our late Soueraigne ELIZABETH.</head>
+            <lg>
+               <l>
+                  <seg rend="decorInit">T</seg>HE gentle season of the ioyous Spring,</l>
+               <l>That teaches all the little Birdes to sing.</l>
+               <l>In euery open Field, and shadie Tree,</l>
+               <l>Their sugred notes of sweete varietie,</l>
+               <l>Awakes my sleepie <hi>Muse</hi> awhile to play,</l>
+               <l>That in the shade of silence buried lay,</l>
+               <l>As loth to interrupt their pleasant Dittie,</l>
+               <l>With broken straines of griefe, or songes of pittie.</l>
+               <l>I graunt at first I should but lowly maske,</l>
+               <l>And not begin with such a loftie taske,</l>
+               <l>But softly warble on a Shepheardes reede,</l>
+               <l>The while my bleating flockes securely feede,</l>
+               <l>For feare the waxen winges wherewith I flie,</l>
+               <l>Should melt away with mounting vp too hie:</l>
+               <l>Yet pardon Griefe a greater fault then this,</l>
+               <l>And giue me leaue (though I haue done amisse)</l>
+               <l>A while to sing my April-song by roate,</l>
+               <pb facs="tcp:176320:3"/>
+               <fw>
+                  <figure>
+                     <figDesc>Decorative head and tail piece</figDesc>
+                  </figure>
+               </fw>
+               <l>Now euery Cuckoe learnes to tune a note:</l>
+               <l>Till <hi>Philomela</hi> grieuing for our wrong,</l>
+               <l>Lament our sorrow in some sweeter song:</l>
+               <l>Mine infant <hi>Muse</hi> begins but now to creepe,</l>
+               <l>Yet loe, already she has learnde to weepe,</l>
+               <l>To weepe for her, from whose vntimely death,</l>
+               <l>(Vntimely borne) she borrowes all her breath:</l>
+               <l>And early learnes her prayses to rehearse,</l>
+               <l>That with the fame of her immortall verse,</l>
+               <l>A neuer dying life she may obtaine,</l>
+               <l>And to her selfe a life of glory gaine.</l>
+               <l>Assist me then (ye <hi>Heliconian</hi> Dames)</l>
+               <l>And with the breath of your diuinest names,</l>
+               <l>Inrich my braine, inspire my barren Quill,</l>
+               <l>And heaue my Verses higher by your skill;</l>
+               <l>That I may sorrowfully sit and sing</l>
+               <l>About the bankes of your <hi>Castalian</hi> spring.</l>
+               <l>Or, rather, sing your selues, ye learned crew,</l>
+               <l>For who can sing so learnedly as you?</l>
+               <l>With Cyprisse branches let your browes be crownd,</l>
+               <l>And lifting vp your voyces siluer sound,</l>
+               <pb facs="tcp:176320:3"/>
+               <fw>
+                  <figure>
+                     <figDesc>Decorative head and tail piece</figDesc>
+                  </figure>
+               </fw>
+               <l>With all your learned instruments in hand,</l>
+               <l>Lament the Lady of the <hi>Faiery</hi>-land.</l>
+               <l>Or, rather, breake your instruments in twaine,</l>
+               <l>Nor euer play, nor euer sing againe,</l>
+               <l>But from your browes the veluet feathers teare,</l>
+               <l>And breake the crimson Coronets you weare,</l>
+               <l>And weepe, and wayle, and melt away to teares,</l>
+               <l>And wring your hands, and rend your yellow heares,</l>
+               <l>For siluer <hi>Cynthia</hi> has eclipst her light,</l>
+               <l>And with her absence makes eternall night.</l>
+               <l>She that so gallantly your daunces led,</l>
+               <l>That could so sweetly sing, so softly tread,</l>
+               <l>And with her musicke make your Consorts euen:</l>
+               <l>In scorne of earth, is gone away to heauen:</l>
+               <l>Leauing your chaster traines to march alone.</l>
+               <l>See where she sits vpon <hi>Apollos</hi> throne,</l>
+               <l>Within whose golden Charet she doth ride,</l>
+               <l>And of his sister is become his Bride.</l>
+               <l>Lament, lament, you Sheepeheards daughters all,</l>
+               <l>And eke you Virgins chast, lament her fall:</l>
+               <l>The Goddesse of your sports is lapt in lead,</l>
+               <pb facs="tcp:176320:4"/>
+               <fw>
+                  <figure>
+                     <figDesc>Decorative head and tail piece</figDesc>
+                  </figure>
+               </fw>
+               <l>And faire <hi>Virginia's</hi> fairest Queene is dead;</l>
+               <l>Oh, come, and do her corse with flowres embraue,</l>
+               <l>And play some solemne musicke by her graue,</l>
+               <l>Then sing her Requiem in some dolefull Verse</l>
+               <l>Or do the songs of <hi>Colin Clout</hi> rehearse.</l>
+               <l>Mourne, <hi>Phoebus</hi> mourne, and turne the day to night,</l>
+               <l>Dim'd is the Lampe, that shone so piercing bright,</l>
+               <l>Those starry eyes haue lost their glorious sight,</l>
+               <l>That lent thy Planet, and the world her light.</l>
+               <l>And you fayre golden skies that tooke such pryde,</l>
+               <l>Where euer blessed <hi>Beta</hi> did abide.</l>
+               <l>Your azur'd curtaines ouer her to spread,</l>
+               <l>With starres (like studs of gold) embellished:</l>
+               <l>Raine down fresh teares that they may drown your mirth,</l>
+               <l>And with your weeping water all the earth:</l>
+               <l>Maske vp your browes and weare your mourning coates;</l>
+               <l>Nor let the birds, with their melodious notes,</l>
+               <l>The emptie ayre a Schoole of musicke make,</l>
+               <l>As heretofore for faire <hi>Elizas</hi> sake.</l>
+               <l>In stead of those let all the fatall Fowles,</l>
+               <l>The crooking Rauens and disastrous owles,</l>
+               <pb facs="tcp:176320:4"/>
+               <fw>
+                  <figure>
+                     <figDesc>Decorative head and tail piece</figDesc>
+                  </figure>
+               </fw>
+               <l>Fill euery corner with their hellish cryes,</l>
+               <l>And with their gastly faces fright our eyes.</l>
+               <l>Weepe, <hi>Flora,</hi> weepe, and doffe thy spangled gowne,</l>
+               <l>And weare no more thy flower enameld crowne:</l>
+               <l>Cast not thy Tapstry mantels at our feete,</l>
+               <l>Nor fill the fragrant ayre with odours sweete;</l>
+               <l>For loe, the Flower which was so fresh and gay,</l>
+               <l>And made Nouember like another May,</l>
+               <l>How daintily so ere it did compose</l>
+               <l>The beautie of the white and crimson Rose,</l>
+               <l>The Flower is parcht, the silken leafe is blasted,</l>
+               <l>The Roote decay'd, and all the glory wasted.</l>
+               <l>Let <hi>Israel</hi> weepe, the house of <hi>Iacob</hi> mourne,</l>
+               <l>
+                  <hi>Syon</hi> is fallne, and <hi>Iudah</hi> left forlorne,</l>
+               <l>The Hill of <hi>Hermon</hi> drops no precious oyle,</l>
+               <l>Nor fruitfull <hi>Bashan,</hi> from his fartest soile,</l>
+               <l>But <hi>Dauids</hi> throne has all his beautie lost,</l>
+               <l>So farre admit'd through euery forreine coast.</l>
+               <l>The Paradice and <hi>Eden</hi> of our Land</l>
+               <l>Planted and kept by GODS Almightie Hand:</l>
+               <pb facs="tcp:176320:5"/>
+               <fw>
+                  <figure>
+                     <figDesc>Decorative head and tail piece</figDesc>
+                  </figure>
+               </fw>
+               <l>Where milke and honie <hi>Canaan</hi>-like did flow,</l>
+               <l>And Flowers of peace, and fruites of plentie grow;</l>
+               <l>Where Vines and Oliues, euermore were seene,</l>
+               <l>Vines euer Fresh, and Oliues euer greene:</l>
+               <l>With Brambles now and Briers is ouer-cast,</l>
+               <l>And like a desert desolate and wast.</l>
+               <l>The royall daughter of that royall King,</l>
+               <l>To whom all nations did their presents bring,</l>
+               <l>So bright of late, and glorious to behold,</l>
+               <l>Shining in garments of embroydered gold,</l>
+               <l>
+                  <hi>Esther</hi> our <hi>Queene,</hi> whose fame (with triumph crownd)</l>
+               <l>
+                  <hi>Haman</hi> of <hi>Spaine</hi> had neuer force to wound,</l>
+               <l>In spight of whom although he dar'd to striue</l>
+               <l>She has preserude her people all aliue:</l>
+               <l>This royall <hi>Queene,</hi> the heauens bright reflexe;</l>
+               <l>This foe of pride, this pride of all her sexe,</l>
+               <l>This <hi>Phoenex</hi> of the world, the worthiest <hi>Dame</hi>
+               </l>
+               <l>That euer acted on the Stage of Fame:</l>
+               <l>(Hers be the ioy) to our eternall sorrow</l>
+               <l>Has payd to death the life that she did borow.</l>
+               <l>Ah! why should spightfull Nature hide away,</l>
+               <pb facs="tcp:176320:5"/>
+               <fw>
+                  <figure>
+                     <figDesc>Decorative head and tail piece</figDesc>
+                  </figure>
+               </fw>
+               <l>So rich a treasure in the lowly clay.</l>
+               <l>And burie in the bowels of the ground</l>
+               <l>The rarest Iem the world had euer found?</l>
+               <l>Or, why, respects she not her children more?</l>
+               <l>But leaues the earth so rich, and men so poore.</l>
+               <l>
+                  <hi>Spaine,</hi> clap thy hands, and laugh while we lament,</l>
+               <l>Our Staffe is broken, and our treasure spent,</l>
+               <l>The Staffe of ioy, the treasure of our ease,</l>
+               <l>The Life, the Crowne, the glory of our Peace:</l>
+               <l>Righteous <hi>Astraea</hi> from the earth is banish't,</l>
+               <l>And from our sight the morning starre is vanish't</l>
+               <l>Which did to vs a radiant light remaine,</l>
+               <l>But was a Comet to the eye of <hi>Spaine:</hi>
+               </l>
+               <l>From whose chaste beames so bright a beautie shin'de,</l>
+               <l>That all their who rish eyes were stricken blinde.</l>
+               <l>
+                  <hi>Beta</hi> is dead, the glory of our pride;</l>
+               <l>Oh, who had thought that <hi>Beta</hi> could haue dyde?</l>
+               <l>
+                  <hi>Beta</hi> is dead, the honour of her race,</l>
+               <l>That has so long vp-held the royall Mace,</l>
+               <l>Whose Predecessours all haue princes beene,</l>
+               <l>And she her selfe a Princely <hi>Mayden-Queene.</hi>
+               </l>
+               <pb facs="tcp:176320:6"/>
+               <fw>
+                  <figure>
+                     <figDesc>Decorative head and tail piece</figDesc>
+                  </figure>
+               </fw>
+               <l>Farewell (sweet Prince) where euer thou do bide,</l>
+               <l>Whether in earth, or by some angels side:</l>
+               <l>Farewell (great <hi>Queene</hi>) that art of Gody blest,</l>
+               <l>Well may thy buried bones securely rest:</l>
+               <l>
+                  <hi>Beta,</hi> farewell, and let thy purest spirit</l>
+               <l>(Where euer fled) the purest place inherite.</l>
+               <l>Goe blessed soule, and vp to heauen climbe,</l>
+               <l>Among the Angels seate thee there betime,</l>
+               <l>Shine like an Angell with thy starrie crowne,</l>
+               <l>And milke-white Robes descending fayrely downe,</l>
+               <l>Wash't in the blood of the vnspotted Lambe,</l>
+               <l>That slew the Beast, and made the Dragon tame.</l>
+               <l>There let thy sacred life (most sacred Dame)</l>
+               <l>Thy famous vertue, and thy vertuous Fame;</l>
+               <l>Whereof so many Pens haue writ the Story</l>
+               <l>Receiue the crowne of euerlasting glory.</l>
+               <l>Feast euer there and feed on sweetest ioy,</l>
+               <l>Without the tast of any sharpe anoy:</l>
+               <l>Liue euer there, in that Coelestiall skie,</l>
+               <l>Where (spight of death) thou neuermore shalt die;</l>
+               <l>Raine euer there on that <hi>Elyzian</hi> greene:</l>
+               <pb facs="tcp:176320:6"/>
+               <fw>
+                  <figure>
+                     <figDesc>Decorative head and tail piece</figDesc>
+                  </figure>
+               </fw>
+               <l>
+                  <hi>Eliza,</hi> well may be <hi>Elyziuius Queene.</hi>
+               </l>
+               <l>And giue me leaue now I haue tuned long</l>
+               <l>The tragick accent of my dole-full Song</l>
+               <l>with <hi>Philomela</hi> to the silent darke;</l>
+               <l>Awhile to mount, and with the morning Larke</l>
+               <l>To greet that rising Sunne, which from the North</l>
+               <l>Displayes his beames, and darts his glory foorth.</l>
+               <l>Discouer then your Christall shining faces,</l>
+               <l>Ye learned <hi>Muses,</hi> and you louely <hi>Graces,</hi>
+               </l>
+               <l>Set a full Period to your wofull cryes,</l>
+               <l>And cleare your browes, and wipe your blubbered eyes,</l>
+               <l>Nor do so sadly sigh, but sweetly sing,</l>
+               <l>And crowne with tryumphs our created King,</l>
+               <l>See how the Sunne for ioy of our good hap</l>
+               <l>Raines showres of gold into his Lemans lap:</l>
+               <l>See how the earth, to grace this ioyfull day,</l>
+               <l>Attyres her selfe in all her best array,</l>
+               <l>And paintes her coate with party colour'd flowres,</l>
+               <l>Dewd with the drops of sweet Rose-water shoures,</l>
+               <l>that glistring gay and smelling sweete</l>
+               <l>All like a Queene she might her bridegrome meete.</l>
+               <pb facs="tcp:176320:7"/>
+               <fw>
+                  <figure>
+                     <figDesc>Decorative head and tail piece</figDesc>
+                  </figure>
+               </fw>
+               <l>Harke how the feathered Quiristers do sing</l>
+               <l>Their <hi>Aue Caesar,</hi> to our crowned King,</l>
+               <l>With so diuine and delicate a sound</l>
+               <l>That through the ayre the neighbouring groues rebound</l>
+               <l>The sweete Alarums of their sugred notes,</l>
+               <l>Tun'd with their hollow bils and swelling throates.</l>
+               <l>Lift vp your heads, ye Christians that suruiue,</l>
+               <l>To see so faire a prince preseru'd aliue,</l>
+               <l>With hands and hearts to testifie your mirth,</l>
+               <l>Ring peales of gladnes thorough all the earth.</l>
+               <l>Chaunt loud <hi>Poeanas</hi> to his loftie Fame,</l>
+               <l>And songs of praise to high <hi>Iehouas</hi> Name,</l>
+               <l>Who still remaines as he hath still decreed</l>
+               <l>A God to <hi>Iacob,</hi> and to <hi>Iacobs</hi> seed,</l>
+               <l>And has not left his litle flock alone,</l>
+               <l>But kept a man to sit on <hi>Dauids</hi> Throne,</l>
+               <l>That he may raze the wall of <hi>Babell</hi> downe,</l>
+               <l>And to his kingdome adde another crowne.</l>
+               <l>Laugh not (proud <hi>Spaine</hi>) nor lift not vp thy crest,</l>
+               <l>But hide thy horns thou seuen headed beast:</l>
+               <l>The day is come thou hast so long expected,</l>
+               <pb facs="tcp:176320:7"/>
+               <fw>
+                  <figure>
+                     <figDesc>Decorative head and tail piece</figDesc>
+                  </figure>
+               </fw>
+               <l>Yet from thy rage our Land is still protected:</l>
+               <l>Till now thy bloody thoughs on hope haue fed,</l>
+               <l>But now thy thoughts with all thy hopes be dead,</l>
+               <l>And still our vine does flowrish more and more.</l>
+               <l>In spight of rauening Wolfe, or raging Boare.</l>
+               <l>For though our <hi>Deborah</hi> be dead and gone,</l>
+               <l>Whose Scepter scourg'd the towers of <hi>Babylon,</hi>
+               </l>
+               <l>Yet <hi>Gideon</hi> liues, and like a man of God,</l>
+               <l>Suffers not <hi>Madian</hi> to be <hi>Israels</hi> rod:</l>
+               <l>But tramples still vpon thy crauen crowne,</l>
+               <l>And breakes thy hornes, and treads thy altars downe.</l>
+               <l>Long may he flowrish with his royall seed</l>
+               <l>That from his loynes so friutfully proceed.</l>
+               <l>Long he may raigne and high aduance his crest</l>
+               <l>Stretching his conquering armes from East to West,</l>
+               <l>Maulgre their beards, that haue with force appointed</l>
+               <l>To lift their arme against the Lords anointed;</l>
+               <l>Who though but <hi>IAMES</hi> the first of that degree,</l>
+               <l>Yet Lyon-heart the second he shall be:</l>
+               <l>The name of Lyon-heart becomes him best,</l>
+               <l>Witnesse the Lyon on his Lordly brest:</l>
+               <pb facs="tcp:176320:8"/>
+               <fw>
+                  <figure>
+                     <figDesc>Decorative head and tail piece</figDesc>
+                  </figure>
+               </fw>
+               <l>A happy signe, that for defence of <hi>Syon</hi>
+               </l>
+               <l>Our valiant Lord will prooue a valiant Lyon.</l>
+               <l>Lo heere a sea of ioy, a world of woe,</l>
+               <l>Yet, loe, the sea the world doth ouer-flow,</l>
+               <l>See how our <hi>Phoenix</hi> mounts about the skies,</l>
+               <l>And from the neast another <hi>Phoenix</hi> flyes,</l>
+               <l>How happily before the change did bring</l>
+               <l>A Mayden-<hi>Queene,</hi> and now a manly <hi>King,</hi>
+               </l>
+               <l>Whose Crowne and Empire does so widely stretch,</l>
+               <l>And ouer all the Land of Brittaine reach.</l>
+               <l>Then let vs all applaud this happy day,</l>
+               <l>And with vnited voyces strongly pray</l>
+               <l>That he may long our royall <hi>King</hi> remaine,</l>
+               <l>And peace and plentie crowne his blessed raine,</l>
+               <l>That victoryes selfe may tryumph on his Lawnce,</l>
+               <l>And through the world his honor'd Fame aduance.</l>
+               <l>So shall his Realme, so shall his Scepter flowrish,</l>
+               <l>And that his Crowne, and this his kingdome nourish</l>
+               <l>So honour still on vertue shall be grounded,</l>
+               <l>The foole deryded, and the proude confounded.</l>
+               <l>So shall his foes abate, his friends accrew,</l>
+               <l>And GOD haue prayse to whome the prayse is dew.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
